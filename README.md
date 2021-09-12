@@ -45,3 +45,7 @@ Marque esse projeto com uma estrela 🌟
 
 - Rodei `npm test` mas nada acontece, o que fazer?
     - Verifique a versão do seu Node.js. Estamos usando na versão 16.8. Entre no [site do node.js](https://nodejs.org) e baixe a versão mais recente.
+
+    ## Crédito do Projeto 
+
+- [Erick Wendel]https://github.com/ErickWendel
