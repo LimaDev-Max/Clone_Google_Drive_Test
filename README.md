@@ -48,4 +48,4 @@ Marque esse projeto com uma estrela 🌟
 
     ## Crédito do Projeto 
 
-- [Erick Wendel]https://github.com/ErickWendel
+- [Erick Wendel](https://github.com/ErickWendel)
