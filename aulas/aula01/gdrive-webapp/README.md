@@ -1,4 +1,4 @@
-# Google Drive Template - Semana JS Expert 5.0
+# Google Drive Template -  JS Expert 5.0
 
 
 Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
